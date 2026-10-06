@@ -3,7 +3,7 @@
 > **ES:** Plan de negocio y estrategia organizacional para una plataforma digital de reservación de salones de eventos.
 > **EN:** Business plan and organizational strategy for a digital event-venue booking platform.
 
-![EVENTUS](images/img-01.png)
+![EVENTUS](images/img-10.png)
 
 ---
 
@@ -66,3 +66,27 @@ system should be designed around commercial value, not just code.
 
 - `images/` — org chart, interface designs and presentation material.
 - `docs/Proyecto-Negocio-AdmEst-25-2.pdf` — full report.
+
+---
+
+## Galería / Gallery
+
+![eventus 1](images/img-01.png)
+
+![eventus 2](images/img-02.png)
+
+![eventus 3](images/img-03.png)
+
+![eventus 4](images/img-04.png)
+
+![eventus 5](images/img-05.png)
+
+![eventus 6](images/img-06.png)
+
+![eventus 7](images/img-07.png)
+
+![eventus 8](images/img-08.jpeg)
+
+![eventus 9](images/img-09.png)
+
+![eventus 10](images/img-10.png)
